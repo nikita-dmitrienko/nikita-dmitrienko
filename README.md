@@ -1,3 +1,9 @@
-# Building things
+<div align="center">
 
-![working](https://media1.tenor.com/m/IvnEllOXaSkAAAAd/orangutan-monkey.gif)
+![monke](monke.gif)
+
+*building things, breaking things, occasionally shipping things*
+
+🎮 sometimes I make [games](https://nikitathedev.itch.io/) too
+
+</div>
