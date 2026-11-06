@@ -19,7 +19,6 @@ const WIDE_ROWS = [
   ["Started", "QA, 2016"],
   ["Remote", "Since 2017"],
   ["Stack", "React, TypeScript"],
-  ["Merged", "shaka-player #10600, #10649"],
   ["Games", "Timmy's Ascension, Cobra's Quest"],
   ["Site", "nikita-dmitrienko.dev"],
 ];
@@ -30,7 +29,6 @@ const NARROW_ROWS = [
   ["Started", "QA, 2016"],
   ["Remote", "Since 2017"],
   ["Stack", "React, TypeScript"],
-  ["Merged", "shaka-player #10600, #10649"],
   ["Games", "Timmy's Ascension, Cobra's Quest"],
   ["Site", "nikita-dmitrienko.dev"],
 ];
@@ -290,7 +288,7 @@ const fonts = await fetchFonts(allText);
 
 const wide = {
   width: 880,
-  tvView: { cx: 178, cy: 216, scale: 56 },
+  tvView: { cx: 178, cy: 205, scale: 56 },
   cardOptions: { x: 352, top: 42, rows: WIDE_ROWS, nameSize: 29, labelWidth: 9, step: 23, taglineLines: [TAGLINE], width: 496 },
   fonts,
 };
